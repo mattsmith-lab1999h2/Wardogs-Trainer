@@ -9,6 +9,7 @@ Free Wardogs Trainer with support for many cfg files. Auto-updates, no key syste
 ---
 ## UPD
 ✅✅ || 24.08 - FIX ANTI-DETECT SYSTEM!
+
 ✅✅ || 28.08 - NEW FEATURES! AIM FIXED!
 
 ---
