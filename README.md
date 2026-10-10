@@ -12,6 +12,8 @@ Free Wardogs Trainer with support for many cfg files. Auto-updates, no key syste
 
 ✅✅ || 28.08 - NEW FEATURES! AIM FIXED!
 
+✅✅ || 10.10 - BIG UPDATE!!
+
 ---
 
 ## || 📖 About 
